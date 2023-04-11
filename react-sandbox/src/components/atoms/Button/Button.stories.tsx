@@ -3,7 +3,7 @@ import { StoryFn, Meta } from "@storybook/react";
 import Button from "./Button";
 
 export default {
-  title: "CustomComponents/Button",
+  title: "CustomComponents/Atoms/Button",
   component: Button,
 } as Meta<typeof Button>;
 
